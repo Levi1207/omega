@@ -379,3 +379,9 @@ visibility: hidden;
 .section h5,h3{
     text-align: center;
 }
+.df{
+    display: flex;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
