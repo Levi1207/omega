@@ -70,6 +70,7 @@ image-rendering: crisp-edges;
 .section {
 width: 100%;
 margin: 0 auto;
+margin-top: 20px;
 }
 .container {
 max-width: 75rem;
@@ -375,6 +376,6 @@ visibility: hidden;
     margin: 0px 0px 0px 50px;
 }
 
-.section h5{
+.section h5,h3{
     text-align: center;
 }
