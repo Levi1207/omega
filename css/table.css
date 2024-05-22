@@ -1,0 +1,31 @@
+table{
+  width: 80%;
+  margin: 1px auto;
+  border: 1px solid black;
+}
+table,td,tr{
+  border-collapse: collapse;
+}
+td{
+  padding: 5px;
+}
+.inp{
+  width: 100% !important;
+  border: none;
+}
+.inputb{
+  border: 1px solid;
+  border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+.end{
+  display: flex;
+  justify-content: space-between;
+}
+.sign{
+  white-space: nowrap;
+  display: flex;
+  gap: 10px;
+}
