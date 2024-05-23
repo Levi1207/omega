@@ -385,3 +385,21 @@ visibility: hidden;
     border-left: none;
     border-right: none;
 }
+.act__body{
+    text-align: center;
+}
+.act__body span{
+    color: red;
+}
+.small{
+    font-size: 12px;
+    
+}
+.border__none{
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+/* .borderL{
+    border-left: none;
+} */
